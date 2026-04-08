@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "GUTTER & HOME SOLUTIONS, LLC",
+    "phone": "+17655619823",
+    "category": "gutter installation",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Gutter Experts",
+      "heroSubline": "Protecting homes across Central Indiana from water damage. Quality installation and lasting solutions.",
+      "aboutTitle": "Protecting Your Indianapolis Home",
+      "aboutText": [
+        "Gutter & Home Solutions, LLC, was founded over a decade ago right here in Indianapolis. We saw firsthand the damage that Indiana's weather – from brutal winters to severe summer storms – inflicts on local homes. We started this company to provide homeowners with reliable gutter solutions built to withstand our unique climate.",
+        "We're not just installers; we're problem solvers. We assess each home individually, considering factors like roof pitch, landscaping, and drainage patterns to recommend the best gutter system. Our commitment is to using durable materials and expert craftsmanship for results that last for years, not just a season.",
+        "We're proud to be part of the Indianapolis community. We believe in giving back, supporting local initiatives, and treating every customer like a neighbor. When you choose us, you're choosing a company that's invested in the well-being of your home and our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Indianapolis weather and housing styles, ensuring the right gutter solution for your home."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable, long-lasting materials that can withstand Indiana's harsh winters and severe storms."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our experienced team provides precise and efficient installation, guaranteeing optimal performance."
+        },
+        {
+          "title": "Comprehensive Service",
+          "description": "From initial consultation to final inspection, we provide complete support and guidance throughout the entire process."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Gutter Inspection",
+      "ctaSubline": "Protect your home from water damage. Schedule your no-obligation inspection today!"
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation services for Indianapolis homes.",
+        "description": "Protecting your home from water damage starts with a properly installed gutter system. At Gutter & Home Solutions, we specialize in seamless gutter installation, ensuring a perfect fit and optimal performance for your Indianapolis home. We assess your home's unique needs, considering roof pitch, drainage patterns, and landscaping to recommend the best gutter system for your property.\n\nWe offer a variety of materials, including aluminum, copper, and steel, each chosen for its durability and resistance to Indiana's harsh weather conditions. Our experienced installers use precise techniques and quality materials to ensure a long-lasting, effective gutter system.\n\nWhether you're building a new home or replacing an old, failing gutter system, we're here to provide expert guidance and professional installation. We handle everything from removing your old gutters to properly disposing of debris, leaving you with a seamless and worry-free experience.",
+        "process": [
+          "Step 1: Thorough inspection of your home's existing gutter system and drainage patterns.",
+          "Step 2: Detailed consultation to discuss your needs and recommend the best gutter system.",
+          "Step 3: Precise installation using quality materials and expert techniques.",
+          "Step 4: Final inspection to ensure optimal performance and customer satisfaction."
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation",
+          "Protects your siding and landscaping",
+          "Reduces the risk of basement flooding",
+          "Increases your home's value"
+        ],
+        "faq": [
+          {
+            "question": "What type of gutters are best for Indianapolis homes?",
+            "answer": "Seamless aluminum gutters are a popular choice due to their durability, affordability, and resistance to rust. For higher-end homes, copper gutters offer superior longevity and a distinctive look."
+          },
+          {
+            "question": "How often should I replace my gutters?",
+            "answer": "With proper maintenance, aluminum gutters can last 20-30 years, while copper gutters can last over 50 years. However, factors like severe weather and poor maintenance can shorten their lifespan."
+          },
+          {
+            "question": "Do you offer any warranties on your gutter installations?",
+            "answer": "Yes, we offer a comprehensive warranty on both materials and workmanship, providing you with peace of mind and long-term protection for your investment."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Reliable gutter repair services to fix leaks, clogs, and damage.",
+        "description": "Don't let damaged gutters compromise your home's protection. Gutter & Home Solutions offers comprehensive gutter repair services to address leaks, clogs, sagging, and other common gutter issues. We understand the importance of a properly functioning gutter system, especially in Indianapolis, where heavy rain and snow can quickly cause water damage.\n\nOur experienced technicians can quickly diagnose and repair a wide range of gutter problems. Whether it's patching a leak, re-attaching loose gutters, or clearing stubborn clogs, we have the expertise to get your gutters back in top condition. We use quality materials and proven techniques to ensure lasting repairs that withstand Indiana's weather.\n\nIgnoring gutter damage can lead to serious problems, including foundation damage, siding rot, and basement flooding. Don't wait until it's too late. Contact Gutter & Home Solutions for prompt and reliable gutter repair services.",
+        "process": [
+          "Step 1: Thorough inspection to identify the source and extent of the damage.",
+          "Step 2: Detailed explanation of the repair options and associated costs.",
+          "Step 3: Expert repairs using quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repairs are effective and long-lasting."
+        ],
+        "benefits": [
+          "Prevents further water damage to your home",
+          "Extends the lifespan of your gutter system",
+          "Saves you money on costly repairs",
+          "Maintains your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need to be repaired?",
+            "answer": "Common signs include leaks, sagging, overflowing, and visible damage such as cracks or holes. If you notice any of these issues, it's important to schedule a professional inspection."
+          },
+          {
+            "question": "Can I repair my gutters myself?",
+            "answer": "While some minor repairs can be done DIY, it's generally best to hire a professional for more extensive damage. Improper repairs can worsen the problem and lead to further damage."
+          },
+          {
+            "question": "How much does gutter repair cost?",
+            "answer": "The cost of gutter repair depends on the extent of the damage and the materials needed. We offer free estimates to provide you with an accurate and transparent quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning services to remove leaves, debris, and clogs.",
+        "description": "Clogged gutters can cause a host of problems, from water damage to pest infestations. Gutter & Home Solutions offers professional gutter cleaning services to keep your gutters flowing freely and protect your Indianapolis home. We remove leaves, debris, and other obstructions, ensuring that rainwater is properly channeled away from your foundation.\n\nOur experienced technicians use safe and effective methods to clean your gutters thoroughly without damaging your property. We also inspect your gutters for any signs of damage or wear and tear, providing you with valuable insights to prevent future problems. We recommend cleaning your gutters at least twice a year, especially in the fall and spring, to prevent clogs and maintain optimal performance.\n\nDon't risk climbing ladders and handling messy debris yourself. Let Gutter & Home Solutions take care of your gutter cleaning needs, ensuring your home is protected from water damage.",
+        "process": [
+          "Step 1: Removal of all leaves, debris, and obstructions from your gutters and downspouts.",
+          "Step 2: Thorough flushing of your gutters to ensure proper water flow.",
+          "Step 3: Inspection of your gutters for any signs of damage or wear and tear.",
+          "Step 4: Disposal of all debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Reduces the risk of pest infestations",
+          "Extends the lifespan of your gutter system",
+          "Maintains your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. Homes with many trees nearby may need more frequent cleaning."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "Clogged gutters can cause water to overflow and damage your foundation, siding, and landscaping. They can also attract pests and lead to ice dams in the winter."
+          },
+          {
+            "question": "Do you offer gutter protection systems?",
+            "answer": "Yes, we offer a variety of gutter protection systems that can help prevent clogs and reduce the need for frequent cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guards",
+        "name": "Gutter Guards",
+        "shortDescription": "Install gutter guards to prevent clogs and reduce maintenance.",
+        "description": "Tired of constantly cleaning your gutters? Gutter guards are the solution. Gutter & Home Solutions installs high-quality gutter guards that prevent leaves, debris, and pests from entering your gutters, reducing the need for frequent cleaning and protecting your home from water damage. We offer a variety of gutter guard options to suit your specific needs and budget.\n\nOur experienced technicians will assess your home and recommend the best gutter guard system for your property. We offer mesh guards, solid guards, and foam guards, each with its own unique benefits. We use durable materials and expert installation techniques to ensure a long-lasting and effective gutter protection system.\n\nWith gutter guards, you can say goodbye to the hassle of gutter cleaning and enjoy peace of mind knowing your home is protected from water damage.",
+        "process": [
+          "Step 1: Assessment of your home's gutter system and surrounding environment.",
+          "Step 2: Recommendation of the best gutter guard system for your needs.",
+          "Step 3: Professional installation using quality materials and expert techniques.",
+          "Step 4: Final inspection to ensure proper fit and performance."
+        ],
+        "benefits": [
+          "Reduces the need for frequent gutter cleaning",
+          "Prevents clogs and water damage",
+          "Extends the lifespan of your gutter system",
+          "Saves you time and money"
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of gutter guards?",
+            "answer": "We offer mesh guards, solid guards, and foam guards. Mesh guards are affordable and effective at blocking large debris. Solid guards prevent almost all debris from entering your gutters. Foam guards are easy to install and can be a good option for DIYers."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of guard and the size of your home. We offer free estimates to provide you with an accurate and transparent quote."
+          },
+          {
+            "question": "Are gutter guards maintenance-free?",
+            "answer": "While gutter guards significantly reduce the need for cleaning, they are not entirely maintenance-free. You may still need to occasionally brush off debris from the surface of the guards."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia-repair",
+        "name": "Soffit & Fascia Repair",
+        "shortDescription": "Protect your roof with soffit and fascia repair services.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, protecting your roof from moisture, pests, and weather damage. Gutter & Home Solutions offers professional soffit and fascia repair services to keep your roof in top condition. We repair damaged or rotting soffit and fascia, ensuring your roof is properly ventilated and protected.\n\nOur experienced technicians can quickly diagnose and repair a wide range of soffit and fascia problems. Whether it's replacing damaged boards, sealing cracks, or addressing ventilation issues, we have the expertise to get your roof back in top condition. We use quality materials and proven techniques to ensure lasting repairs that withstand Indiana's weather.\n\nIgnoring soffit and fascia damage can lead to serious problems, including roof leaks, pest infestations, and structural damage. Contact Gutter & Home Solutions for prompt and reliable soffit and fascia repair services.",
+        "process": [
+          "Step 1: Thorough inspection to identify the source and extent of the damage.",
+          "Step 2: Detailed explanation of the repair options and associated costs.",
+          "Step 3: Expert repairs using quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repairs are effective and long-lasting."
+        ],
+        "benefits": [
+          "Protects your roof from moisture and pests",
+          "Improves your home's ventilation",
+          "Extends the lifespan of your roof",
+          "Maintains your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Both play a crucial role in protecting your roof from the elements."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need to be repaired?",
+            "answer": "Common signs include rotting wood, peeling paint, cracks, and pest infestations. If you notice any of these issues, it's important to schedule a professional inspection."
+          },
+          {
+            "question": "How much does soffit and fascia repair cost?",
+            "answer": "The cost of soffit and fascia repair depends on the extent of the damage and the materials needed. We offer free estimates to provide you with an accurate and transparent quote."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation",
+        "name": "Downspout Installation",
+        "shortDescription": "Proper downspout installation to divert water away from your home.",
+        "description": "Effective downspouts are crucial for directing rainwater away from your foundation. Gutter & Home Solutions provides expert downspout installation services, ensuring proper drainage and preventing costly water damage. We strategically place downspouts to channel water away from your home's foundation, preventing basement flooding and soil erosion.\n\nWe offer a variety of downspout materials and styles to complement your home's aesthetics and functionality. Our experienced installers ensure proper slope and secure attachment for optimal performance. We also offer downspout extensions to further divert water away from your foundation.\n\nDon't underestimate the importance of properly installed downspouts. Contact Gutter & Home Solutions for expert downspout installation services.",
+        "process": [
+          "Step 1: Assessment of your home's drainage patterns and landscaping.",
+          "Step 2: Strategic placement of downspouts for optimal water diversion.",
+          "Step 3: Professional installation using quality materials and secure attachment.",
+          "Step 4: Final inspection to ensure proper drainage and functionality."
+        ],
+        "benefits": [
+          "Prevents basement flooding",
+          "Protects your foundation from water damage",
+          "Prevents soil erosion",
+          "Maintains your home's structural integrity"
+        ],
+        "faq": [
+          {
+            "question": "Where should my downspouts drain?",
+            "answer": "Downspouts should drain at least 10 feet away from your foundation. Consider using downspout extensions to achieve this distance."
+          },
+          {
+            "question": "What are downspout extensions?",
+            "answer": "Downspout extensions are attachments that extend the reach of your downspouts, allowing you to direct water further away from your foundation."
+          },
+          {
+            "question": "What materials are used for downspouts?",
+            "answer": "Downspouts are typically made of aluminum, vinyl, or copper. Aluminum is a popular choice due to its durability and affordability."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC is proud to offer comprehensive gutter installation services to the residents of Carmel, Indiana. Known for its upscale neighborhoods and meticulously planned developments from the 1980s through the 2000s, Carmel boasts a diverse range of architectural styles, each requiring specific gutter solutions to ensure proper water management and protection from the elements. We understand the aesthetic value of your home and will work diligently to provide seamless gutter integration. \n\nOur team is experienced in handling the unique challenges posed by Carmel's climate, including cold winters with significant snow and ice. We offer durable, weather-resistant gutter systems designed to withstand harsh conditions and prevent ice dams, protecting your home from water damage. Whether you need a complete gutter replacement or a simple repair, GUTTER & HOME SOLUTIONS, LLC is dedicated to providing top-quality workmanship and exceptional customer service in Carmel.",
+        "localContext": "Carmel is characterized by its upscale, planned communities built primarily from the 1980s onwards and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Westfield",
+          "Zionsville",
+          "Fishers"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC provides expert gutter installation and repair services to homeowners in Fishers, Indiana. As a rapidly growing city with numerous planned communities developed from the 1990s to the present, Fishers features a wide array of modern home designs. We offer customized gutter solutions to complement these styles, ensuring optimal performance and aesthetic appeal.\n\nWe are aware of the challenges that the Indiana climate presents, especially during the winter months. GUTTER & HOME SOLUTIONS, LLC offers gutter systems that are specifically designed to withstand the heavy snow and ice that Fishers experiences. From seamless aluminum gutters to durable gutter guards, we have the expertise and products to protect your home from water damage and maintain its value. We take pride in serving the Fishers community with reliable and efficient gutter services.",
+        "localContext": "Fishers is known for its newer, planned communities built from the 1990s onwards, and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Noblesville",
+          "Carmel",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC is committed to providing high-quality gutter services to the residents of Noblesville, Indiana. With its historic Courthouse Square area and a mix of older and newer homes, Noblesville presents a unique set of gutter installation needs. We have the experience and expertise to handle any project, from preserving the historic charm of older homes to ensuring optimal water management for modern constructions.\n\nUnderstanding the local climate is crucial for effective gutter solutions. GUTTER & HOME SOLUTIONS, LLC offers durable and weather-resistant gutter systems designed to withstand Noblesville's cold winters and heavy snowfall. Protect your home from water damage and maintain its structural integrity with our professional gutter installation and repair services. We are dedicated to serving the Noblesville community with integrity and exceptional workmanship.",
+        "localContext": "Noblesville features a historic Courthouse Square area and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Fishers",
+          "Cicero",
+          "Westfield"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC is your trusted provider for gutter installation and repair services in Indianapolis, IN. As the state capital and largest city, Indianapolis features a diverse range of architectural styles, from historic homes in Irvington to modern developments downtown. We offer customized gutter solutions to complement any home, ensuring optimal performance and aesthetic appeal.\n\nIndianapolis experiences all four seasons, including cold winters with snow and ice. GUTTER & HOME SOLUTIONS, LLC offers gutter systems that are specifically designed to withstand the harsh weather conditions. From seamless aluminum gutters to durable gutter guards, we have the expertise and products to protect your home from water damage and maintain its value. We take pride in serving the Indianapolis community with reliable and efficient gutter services.",
+        "localContext": "Indianapolis is a large, diverse city with a mix of historic and modern architecture and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC proudly serves the residents of Zionsville, IN, providing expert gutter installation and repair services. Known for its charming village atmosphere and beautiful homes, Zionsville requires attention to detail and quality workmanship. We offer a range of gutter solutions designed to complement the town's unique architectural styles.\n\nWe understand the challenges posed by Indiana's climate, including cold winters with significant snowfall. GUTTER & HOME SOLUTIONS, LLC provides durable, weather-resistant gutter systems designed to protect your home from water damage and ice dams. Our team is committed to providing exceptional customer service and reliable gutter solutions to the Zionsville community.",
+        "localContext": "Zionsville is a charming suburban town with a variety of home styles that experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Whitestown",
+          "Lebanon",
+          "Carmel"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC offers comprehensive gutter services to the growing community of Westfield, Indiana. With its mix of established neighborhoods and new developments, Westfield requires a gutter company that can handle a variety of projects. We provide customized solutions to meet the specific needs of your home.\n\nWestfield experiences cold winters with snow and ice, making it essential to have a reliable gutter system. GUTTER & HOME SOLUTIONS, LLC offers durable, weather-resistant gutters and gutter guards designed to protect your home from water damage and ice dams. We are committed to providing top-quality workmanship and exceptional customer service to the residents of Westfield.",
+        "localContext": "Westfield is a rapidly growing city with a mix of older and newer homes that experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Carmel",
+          "Sheridan",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC is dedicated to providing high-quality gutter installation and repair services to the residents of Greenwood, Indiana. As a thriving suburban community, Greenwood features a diverse range of home styles, each requiring specific gutter solutions to ensure proper water management.\n\nWe understand the challenges posed by Indiana's climate, including cold winters with significant snowfall. GUTTER & HOME SOLUTIONS, LLC offers durable, weather-resistant gutter systems designed to protect your home from water damage and ice dams. Our team is committed to providing exceptional customer service and reliable gutter solutions to the Greenwood community.",
+        "localContext": "Greenwood is a suburban community with a variety of home styles and experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Whiteland",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Lawrence",
+        "slug": "lawrence-in",
+        "state": "IN",
+        "content": "GUTTER & HOME SOLUTIONS, LLC proudly serves the residents of Lawrence, IN, offering expert gutter installation and repair services. Lawrence features a mix of residential and commercial properties, and we provide customized gutter solutions to meet the unique needs of each client.\n\nWe understand the importance of protecting your property from water damage, especially during Indiana's cold winters with snow and ice. GUTTER & HOME SOLUTIONS, LLC offers durable, weather-resistant gutter systems designed to withstand the elements and prevent costly repairs. Our team is committed to providing exceptional customer service and reliable gutter solutions to the Lawrence community.",
+        "localContext": "Lawrence is a city with a mix of residential and commercial properties that experiences cold, snowy winters.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Fishers",
+          "McCordsville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "Gutter & Home Solutions did a fantastic job installing new gutters on our Broad Ripple bungalow. The crew was professional, efficient, and cleaned up everything perfectly. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David M.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "We had a leak in our gutters after a bad storm. Gutter & Home Solutions came out quickly and fixed the problem at a reasonable price. Appreciate their prompt service!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "I've used Gutter & Home Solutions for gutter cleaning for the past few years, and they always do a thorough job. It's such a relief to know my gutters are clear and my home is protected from water damage.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Gutter Guards",
+        "text": "We had gutter guards installed on our home in Carmel, and it's been a game-changer! No more climbing ladders to clean out leaves and debris. The installation was quick and professional.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 4,
+        "service": "Soffit & Fascia Repair",
+        "text": "Gutter & Home Solutions repaired some damaged soffit and fascia on our home. They were knowledgeable, efficient, and the repairs look great. Would definitely use them again.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Downspout Installation",
+        "text": "We had issues with water pooling around our foundation. Gutter & Home Solutions installed new downspouts and extensions, and it's made a huge difference. No more water problems!",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Gutter Installation Indianapolis | Gutter & Home Solutions",
+        "description": "Indianapolis gutter installation experts. Protect your home with quality gutters. Free inspections. Call today!"
+      },
+      "about": {
+        "title": "About Us | Gutter & Home Solutions",
+        "description": "Learn about Gutter & Home Solutions and our commitment to quality gutter services in Indianapolis and surrounding areas."
+      },
+      "services": {
+        "title": "Gutter Services | Gutter & Home Solutions",
+        "description": "Comprehensive gutter services in Indianapolis: installation, repair, cleaning, guards, soffit & fascia. Protect your home today!"
+      },
+      "contact": {
+        "title": "Contact Us | Gutter & Home Solutions",
+        "description": "Contact Gutter & Home Solutions for gutter services in Indianapolis. Get a free quote! Call +17655619823"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Gutter & Home Solutions",
+        "description": "Read reviews from satisfied customers of Gutter & Home Solutions in Indianapolis. See why we're the trusted choice for gutters."
+      },
+      "service-areas": {
+        "title": "Service Areas | Gutter & Home Solutions",
+        "description": "Gutter services in Indianapolis, Carmel, Fishers, Noblesville. Quality gutter installation and repair. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guards": "/images/service-gutter-guards.webp",
+      "soffit-fascia-repair": "/images/service-soffit-fascia-repair.webp",
+      "downspout-installation": "/images/service-downspout-installation.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guards": {
+        "src": "/images/service-gutter-guards.webp",
+        "srcset": "/images/service-gutter-guards-400w.webp 400w, /images/service-gutter-guards-800w.webp 800w, /images/service-gutter-guards-1200w.webp 1200w, /images/service-gutter-guards.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia-repair": {
+        "src": "/images/service-soffit-fascia-repair.webp",
+        "srcset": "/images/service-soffit-fascia-repair-400w.webp 400w, /images/service-soffit-fascia-repair-800w.webp 800w, /images/service-soffit-fascia-repair-1200w.webp 1200w, /images/service-soffit-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation": {
+        "src": "/images/service-downspout-installation.webp",
+        "srcset": "/images/service-downspout-installation-400w.webp 400w, /images/service-downspout-installation-800w.webp 800w, /images/service-downspout-installation-1200w.webp 1200w, /images/service-downspout-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
